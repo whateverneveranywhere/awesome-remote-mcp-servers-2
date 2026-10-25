@@ -4960,7 +4960,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AccountHub MCP connector](https://glama.ai/mcp/connectors/ai.accounthub/account-hub/badges/score.svg)](https://glama.ai/mcp/connectors/ai.accounthub/account-hub)
   🔐 - Search and act across multiple Gmail, Google Calendar, Drive and Contacts accounts, Slack workspaces and Notion.
 - [GetMattered](https://getmattered.com/mcps) `https://mcp.getmattered.com/mcp`
-  [![GetMattered MCP connector](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd)
+  [![GetMattered MCP connector](https://glama.ai/mcp/connectors/com.getmattered/getmattered/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmattered/getmattered)
   🔓 - Resume scoring and rewrites, cover letters and auto-apply on 12 ATS platforms. Needs Google sign-in.
 - [AI Rollout Framework](https://airolloutframework.com) `https://airolloutframework.com/mcp`
   [![AI Rollout Framework MCP connector](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework/badges/score.svg)](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework)
